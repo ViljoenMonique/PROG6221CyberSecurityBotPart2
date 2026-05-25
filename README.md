@@ -3,23 +3,42 @@
 **PROG6221 - Programming 2A**  
 **Student:** Monique Viljoen
 
-A modern **WPF GUI** Cybersecurity Awareness Chatbot with voice greeting, ASCII art, keyword recognition, sentiment detection, memory, and random responses.
+A modern **WPF GUI** Cybersecurity Awareness Chatbot with voice greeting, ASCII art, intelligent responses, memory, and sentiment detection.
 
-## Features
-- Voice Greeting on startup
-- Custom ASCII Art in GUI header
+##  Features
+
+- Voice greeting on startup (`greeting.wav`)
+- Custom ASCII Art header ("Your Cyber Friend")
 - Remembers user's name and favourite topic
-- Keyword Recognition (password, phishing, 2FA, hacked, etc.)
+- Keyword Recognition (password, phishing, 2FA, hacked, safe browsing, updates)
 - Sentiment Detection (worried, curious, frustrated, etc.)
-- Random Responses
-- Clean dark-themed GUI with Send & Exit buttons
+- Random Responses for better engagement
+- Clean dark cyber-themed GUI with Send & Exit buttons
+- Exit command (`exit`) or Exit button
 
-## Technologies
-- C# .NET 8.0
-- WPF (Windows Presentation Foundation)
-- Object-Oriented Design
+##  GitHub Commits
 
-Made for PROG6221 Part 2.
+- Added voice greeting using AudioPlayer class
+- Added custom ASCII art "Your Cyber Friend" in GUI header
+- Implemented user name memory and personalised responses
+- Added keyword recognition system with multiple cybersecurity topics
+- Added sentiment detection and random response system
+- Final improvements - added Exit button, better UI layout, and updated README
+
+##  Project Structure
+
+```bash
+CyberSecurityBotPart2/
+├── Assets/
+│   └── greeting.wav
+├── MainWindow.xaml
+├── MainWindow.xaml.cs
+├── Chatbot.cs
+├── KeywordResponder.cs
+├── SentimentDetector.cs
+├── MemoryStore.cs
+├── AudioPlayer.cs
+├── README.md
 
 
 #  Cybersecurity Awareness Bot
