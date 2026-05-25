@@ -40,6 +40,10 @@ CyberSecurityBotPart2/
 ├── AudioPlayer.cs
 ├── README.md
 
+##  GitHub Actions CI Status
+
+<img src="https://github.com/ViljoenMonique/PROG6221CyberSecurityBotPart2/actions/workflows/dotnet.yml/badge.svg" alt="GitHub Actions CI">
+
 
 #  Cybersecurity Awareness Bot
 
