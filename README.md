@@ -53,11 +53,11 @@ A friendly C# console chatbot designed to educate users about cybersecurity.
 
 ##  Features
 
--  **Voice Greeting** on startup (using recorded `greeting.wav`)
--  **Custom ASCII Art** header ("Your Cyber Friend")
--  **Personalised greeting** – asks for your name
--  **Professional typing effect** on all responses
--  **Interactive chatbot** with expanded cybersecurity responses
+-  Voice Greeting** on startup (using recorded `greeting.wav`)
+-  Custom ASCII Art** header ("Your Cyber Friend")
+-  Personalised greeting** – asks for your name
+-  Professional typing effect** on all responses
+-  Interactive chatbot** with expanded cybersecurity responses
 -  Enhanced console UI with colours, borders and clean formatting
 -  Proper input validation
 
