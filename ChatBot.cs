@@ -1,4 +1,5 @@
 //Added custom ASCII art "Your Cyber Friend" in GUI header
+//Final improvements - added Exit button, better UI layout, and updated README
 
 using System;
 
