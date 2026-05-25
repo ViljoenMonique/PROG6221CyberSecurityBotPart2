@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+//Added sentiment detection and random response system
+
+using System.Collections.Generic;
 
 namespace CyberSecurityBot
 {
