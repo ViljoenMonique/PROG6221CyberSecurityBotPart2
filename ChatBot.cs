@@ -1,4 +1,6 @@
-﻿using System;
+//Added custom ASCII art "Your Cyber Friend" in GUI header
+
+using System;
 
 namespace CyberSecurityBot
 {
