@@ -1,4 +1,6 @@
-﻿namespace CyberSecurityBot
+//Implemented user name memory and personalised responses
+
+namespace CyberSecurityBot
 {
     public class MemoryStore
     {
