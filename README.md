@@ -47,7 +47,7 @@ CyberSecurityBotPart2/
 
 #  Cybersecurity Awareness Bot
 
-**PROG6221 Part 1 - Basic Chatbot Interaction with Voice Greeting & Image**
+PROG6221 Part 1 - Basic Chatbot Interaction with Voice Greeting & Image
 
 A friendly C# console chatbot designed to educate users about cybersecurity.
 
@@ -65,7 +65,7 @@ A friendly C# console chatbot designed to educate users about cybersecurity.
 
 1. Clone or download the repository
 2. Open `CyberSecurityBot.slnx` in Visual Studio 2022
-3. Ensure `greeting.wav` is inside the `Assets` folder and set to **Copy always**
+3. Ensure `greeting.wav` is inside the `Assets` folder and set to Copy always
 4. Press `F5`
 
 ##  Project Structure
