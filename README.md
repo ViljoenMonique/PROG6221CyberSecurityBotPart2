@@ -5,7 +5,7 @@
 
 This is the **Part 2** version of the Cybersecurity Awareness Chatbot. It builds upon the console application from Part 1 and now features a full **WPF Graphical User Interface**.
 
-## ✨ Key Features (Part 2)
+##  Key Features (Part 2)
 
 - Modern WPF GUI with dark cyber theme
 - Voice Greeting on startup
