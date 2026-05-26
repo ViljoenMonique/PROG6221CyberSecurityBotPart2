@@ -3,18 +3,27 @@
 **PROG6221 - Programming 2A**  
 **Student:** Monique Viljoen
 
-This is the **Part 2** version of the Cybersecurity Awareness Chatbot. It builds upon the console application from Part 1 and now features a full **WPF Graphical User Interface**.
+This is **Part 2** of the Cybersecurity Awareness Chatbot. It builds upon the console version from Part 1 and now features a full **WPF Graphical User Interface** with advanced capabilities.
 
-##  Key Features (Part 2)
+## Features
 
-- Modern WPF GUI with dark cyber theme
-- Voice Greeting on startup
-- Custom ASCII Art displayed in the header
-- Remembers user's name and favourite topic (Memory & Recall)
-- Keyword Recognition (password, phishing, 2FA, hacked, safe browsing, etc.)
-- Sentiment Detection (responds to worried, curious, frustrated, etc.)
-- Random Responses for better engagement
-- Exit button and `exit` command
+- **Voice Greeting** on startup (`greeting.wav`)
+- **Custom ASCII Art** displayed in the GUI header
+- **User Name Memory** – remembers the user's name
+- **Favourite Topic Memory** – remembers user's preferred topic
+- **Keyword Recognition** – responds to cybersecurity topics (password, phishing, 2FA, hacked, safe browsing, updates)
+- **Sentiment Detection** – detects and responds to emotions (worried, curious, frustrated, etc.)
+- **Random Responses** – provides variety in answers
+- **Clean Dark-Themed GUI** with Send and Exit buttons
+- **Exit Command** – type `exit` or click Exit button
+
+## Technologies
+
+- C# .NET 8.0
+- Windows Presentation Foundation (WPF)
+- Object-Oriented Programming (Multiple Classes)
+- Dictionaries for keyword and sentiment handling
+
 
 ## Project Structure
 
