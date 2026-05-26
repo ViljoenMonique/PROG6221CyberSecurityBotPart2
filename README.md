@@ -17,6 +17,8 @@ This is the **Part 2** version of the Cybersecurity Awareness Chatbot. It builds
 - Exit button and `exit` command
 
 ## Project Structure
+
+```bash
 ├── Assets/
 │   └── greeting.wav
 ├── MainWindow.xaml
