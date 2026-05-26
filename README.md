@@ -3,7 +3,7 @@
 **PROG6221 - Programming 2A**  
 **Student:** Monique Viljoen
 
-![Your Cyber Friend ASCII Art](Images/ascii-art-your-cyber-friend.png)
+![Your Cyber Friend ASCII Art](ascii-art-your-cyber-friend.png)
 
 A modern **WPF GUI** Cybersecurity Awareness Chatbot with voice greeting, intelligent responses, memory, and sentiment detection.
 
@@ -31,8 +31,7 @@ A modern **WPF GUI** Cybersecurity Awareness Chatbot with voice greeting, intell
 CyberSecurityBotPart2/
 ├── Assets/
 │   └── greeting.wav
-├── Images/
-│   └── ascii-art-your-cyber-friend.png
+├── ascii-art-your-cyber-friend.png
 ├── MainWindow.xaml
 ├── MainWindow.xaml.cs
 ├── Chatbot.cs
